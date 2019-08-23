@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "next build",
-    "deploy": "now --public && now --target production",
+    "deploy": "now --target production",
     "dev": "next",
     "export": "next export",
     "start": "next start"
